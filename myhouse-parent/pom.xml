@@ -61,6 +61,6 @@
     <module>myhouse-web</module>
     
     <module>myhouse-common</module>
-     <module>myhouse-biz</module>
+    <module>myhouse-biz</module>
   </modules>
 </project>
